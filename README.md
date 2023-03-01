@@ -20,6 +20,10 @@ Uruchom grę i przetestuj działanie wszystkich jej elementów.
 
 Jeżeli zauważysz błędy w zadaniu lub masz pomysł na jego ulepszenie, zapraszam do zgłaszania ich w zakładce "Issues" tego repozytorium. Jeżeli chcesz pomóc w rozwoju tego repozytorium, zapraszam do zgłaszania swoich zmian w zakładce "Pull requests".
 
+## Uwaga
+
+Do stworzenia tego projektu wykorzystane zostały narzędzia oparte o sztuczną inteligencję. Wszelkie błędy w projekcie mogą być spowodowane błędami w tych narzędziach. W przypadku znalezienia błędu w projekcie, proszę zgłosić go w zakładce "Issues" tego repozytorium.
+
 ## Licencja
 
 Projekt został upubliczniony na lincencji [The Unlicense](https://unlicense.org/). Oznacza to, że możesz swobodnie korzystać z kodu zawartego w tym repozytorium w dowolny sposób, bez ograniczeń. Kod źródłowy nie jest objęty żadną licencją, więc możesz go również wykorzystywać w swoich projektach. Znaczy to również, że nie musisz podawać żadnych informacji o autorze ani o licencji. Aczkolwiek każdy kod dodany do tego repozytorium również będzie objęty licencją The Unlicense, więc dodający kod do repozytorium powinien być świadomy tego, że traci wszelkie prawa autorskie do swojego kodu.
